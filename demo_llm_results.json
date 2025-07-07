@@ -1,0 +1,39 @@
+[
+  {
+    "cluster_id": 0,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Microsoft Corp.",
+      "Microsoft Corporation"
+    ],
+    "canonical_name": "Microsoft Corporation",
+    "llm_response": "Mock response: Microsoft Corporation",
+    "processing_cost": 0.00126,
+    "prompt_text": "Vendor Cluster:\\n\\nMicrosoft Corp.\\nMicrosoft Corporation\\n\\nWhat is the cleanest, most canonical name for reporting purposes?"
+  },
+  {
+    "cluster_id": 1,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Walmart Inc.",
+      "Walmart Stores Inc.",
+      "Walmart Corporation"
+    ],
+    "canonical_name": "Walmart Inc.",
+    "llm_response": "Mock response: Walmart Inc.",
+    "processing_cost": 0.00142,
+    "prompt_text": "Vendor Cluster:\\n\\nWalmart Inc.\\nWalmart Stores Inc.\\nWalmart Corporation\\n\\nWhat is the cleanest, most canonical name for reporting purposes?"
+  },
+  {
+    "cluster_id": 2,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Google Inc.",
+      "Google LLC"
+    ],
+    "canonical_name": "Google LLC",
+    "llm_response": "Mock response: Google LLC",
+    "processing_cost": 0.00111,
+    "prompt_text": "Vendor Cluster:\\n\\nGoogle Inc.\\nGoogle LLC\\n\\nWhat is the cleanest, most canonical name for reporting purposes?"
+  }
+]

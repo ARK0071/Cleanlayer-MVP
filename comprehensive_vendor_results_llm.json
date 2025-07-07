@@ -1,0 +1,1465 @@
+[
+  {
+    "cluster_id": 0,
+    "vendor_count": 4,
+    "vendor_names": [
+      "PPD Development",
+      "PPD DEVELOPMENT",
+      "PPD DEVELOPMENT LP",
+      "PPD Development LP"
+    ],
+    "canonical_name": "PPD Development",
+    "llm_response": "PPD Development",
+    "processing_cost": 6.565000000000001e-05
+  },
+  {
+    "cluster_id": 1,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Covance Labortories Inc.",
+      "COVANCE LABORTORIES INC."
+    ],
+    "canonical_name": "Covance Laboratories Inc.",
+    "llm_response": "Covance Laboratories Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 2,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Ryska Posten AB",
+      "RYSKA POSTEN AB"
+    ],
+    "canonical_name": "Ryska Posten AB",
+    "llm_response": "Ryska Posten AB",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 3,
+    "vendor_count": 6,
+    "vendor_names": [
+      "ALD Automotive AB",
+      "ALD Automotive UK",
+      "ALD AUTOMOTIVE UK",
+      "ALD AUTOMOTIVE",
+      "ALD Automotive AG",
+      "ALD Automotive"
+    ],
+    "canonical_name": "ALD Automotive",
+    "llm_response": "ALD Automotive",
+    "processing_cost": 7.735000000000001e-05
+  },
+  {
+    "cluster_id": 4,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Precision Effect, Inc.",
+      "PRECISION EFFECT, INC."
+    ],
+    "canonical_name": "Precision Effect, Inc.",
+    "llm_response": "Precision Effect, Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 5,
+    "vendor_count": 6,
+    "vendor_names": [
+      "FedEx",
+      "FedEX Express",
+      "Fedex",
+      "Fedex Express FR",
+      "FEDEX",
+      "FEDEX EXPRESS"
+    ],
+    "canonical_name": "FedEx Express",
+    "llm_response": "FedEx Express",
+    "processing_cost": 6.565000000000001e-05
+  },
+  {
+    "cluster_id": 6,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Greater Than One Inc.",
+      "GREATER THAN ONE INC.",
+      "Greater than One",
+      "GREATER THAN ONE"
+    ],
+    "canonical_name": "Greater Than One Inc.",
+    "llm_response": "Greater Than One Inc.",
+    "processing_cost": 7.865e-05
+  },
+  {
+    "cluster_id": 7,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Argot Partners LLC",
+      "ARGOT PARTNERS LLC"
+    ],
+    "canonical_name": "Argot Partners LLC",
+    "llm_response": "Argot Partners LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 8,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Colt Technology Services GmbH",
+      "Colt Technology Services",
+      "Colt Technology Services B.V."
+    ],
+    "canonical_name": "Colt Technology Services",
+    "llm_response": "Colt Technology Services",
+    "processing_cost": 7.02e-05
+  },
+  {
+    "cluster_id": 9,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Labcorp Drug Development Inc",
+      "LabCorp",
+      "LABCORP DRUG DEVELOPMENT INC",
+      "LABCORP EARLY DEVELOPMENT"
+    ],
+    "canonical_name": "Labcorp",
+    "llm_response": "Labcorp",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 10,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Ernst &Young LLP",
+      "Ernst and Young LLP",
+      "Ernst and Young AG",
+      "ERNST &YOUNG LLP"
+    ],
+    "canonical_name": "Ernst & Young LLP",
+    "llm_response": "Ernst & Young LLP",
+    "processing_cost": 7.865e-05
+  },
+  {
+    "cluster_id": 11,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Pilgrim Parking Inc",
+      "PILGRIM PARKING INC."
+    ],
+    "canonical_name": "Pilgrim Parking Inc",
+    "llm_response": "Pilgrim Parking Inc",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 12,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Hongene Biotech International Co.",
+      "Hongene Biotech International Co.",
+      "HONGENE BIOTECH INTERNATIONAL CO."
+    ],
+    "canonical_name": "Hongene Biotech International Co.",
+    "llm_response": "Hongene Biotech International Co.",
+    "processing_cost": 7.475e-05
+  },
+  {
+    "cluster_id": 13,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Aon Consulting Inc. -Radford",
+      "AON Consulting Limited",
+      "AON CONSULTING INC. -RADFORD",
+      "AON CONSULTING LIMITED"
+    ],
+    "canonical_name": "Aon Consulting Inc.",
+    "llm_response": "Aon Consulting Inc.",
+    "processing_cost": 7.605e-05
+  },
+  {
+    "cluster_id": 14,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Deloitte AG",
+      "Deloitte LLP"
+    ],
+    "canonical_name": "Deloitte",
+    "llm_response": "Deloitte",
+    "processing_cost": 5.135e-05
+  },
+  {
+    "cluster_id": 15,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Keystone Partners",
+      "KEYSTONE PARTNERS"
+    ],
+    "canonical_name": "Keystone Partners",
+    "llm_response": "Keystone Partners",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 16,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Shulkin Solutions",
+      "SHULKIN SOLUTIONS"
+    ],
+    "canonical_name": "Shulkin Solutions",
+    "llm_response": "Shulkin Solutions",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 17,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Kenneth R. Filosi",
+      "KENNETH R. FILOSI"
+    ],
+    "canonical_name": "Kenneth R. Filosi",
+    "llm_response": "Kenneth R. Filosi",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 18,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Vinyl Development LLC",
+      "VINYL DEVELOPMENT LLC"
+    ],
+    "canonical_name": "VINYL DEVELOPMENT LLC",
+    "llm_response": "VINYL DEVELOPMENT LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 19,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Eliassen Group, LLC",
+      "ELIASSEN GROUP, LLC"
+    ],
+    "canonical_name": "Eliassen Group, LLC",
+    "llm_response": "Eliassen Group, LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 20,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Aztec Technolgoies Inc.",
+      "AZTEC TECHNOLGOIES INC."
+    ],
+    "canonical_name": "Aztec Technologies Inc.",
+    "llm_response": "Aztec Technologies Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 21,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Global Life Sciences Solutions USA",
+      "GLOBAL LIFE SCIENCES SOLUTIONS USA",
+      "Global Life Sciences Solutions Sing"
+    ],
+    "canonical_name": "Global Life Sciences Solutions",
+    "llm_response": "Global Life Sciences Solutions",
+    "processing_cost": 8.060000000000001e-05
+  },
+  {
+    "cluster_id": 22,
+    "vendor_count": 2,
+    "vendor_names": [
+      "DK Pierce and Associates Inc.",
+      "DK PIERCE AND ASSOCIATES INC."
+    ],
+    "canonical_name": "DK Pierce and Associates Inc.",
+    "llm_response": "DK Pierce and Associates Inc.",
+    "processing_cost": 7.345000000000001e-05
+  },
+  {
+    "cluster_id": 23,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Heart Failure Society of America",
+      "British Society for Heart Failure",
+      "BRITISH SOCIETY FOR HEART FAILURE"
+    ],
+    "canonical_name": "Heart Failure Society of America",
+    "llm_response": "Heart Failure Society of America",
+    "processing_cost": 8.320000000000002e-05
+  },
+  {
+    "cluster_id": 24,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Withers Bergman LLP",
+      "WITHERS BERGMAN LLP"
+    ],
+    "canonical_name": "WITHERS BERGMAN LLP",
+    "llm_response": "WITHERS BERGMAN LLP",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 25,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Ashfield Meetings and Events Limite",
+      "ASHFIELD MEETINGS AND EVENTS LIMITE",
+      "Ashfield Meetings & Events Inc",
+      "ASHFIELD MEETINGS & EVENTS INC"
+    ],
+    "canonical_name": "Ashfield Meetings & Events Inc",
+    "llm_response": "Ashfield Meetings & Events Inc",
+    "processing_cost": 9.295000000000001e-05
+  },
+  {
+    "cluster_id": 26,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Pharmalex US LLC",
+      "PHARMALEX US LLC",
+      "PharmaLex GmbH"
+    ],
+    "canonical_name": "PharmaLex GmbH",
+    "llm_response": "PharmaLex GmbH",
+    "processing_cost": 6.175000000000001e-05
+  },
+  {
+    "cluster_id": 27,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Covington &Burling LLP",
+      "Covington and Burling LLP",
+      "COVINGTON &BURLING LLP"
+    ],
+    "canonical_name": "Covington & Burling LLP",
+    "llm_response": "Covington & Burling LLP",
+    "processing_cost": 7.085e-05
+  },
+  {
+    "cluster_id": 28,
+    "vendor_count": 2,
+    "vendor_names": [
+      "The Prudential Insurance Company",
+      "THE PRUDENTIAL INSURANCE COMPANY"
+    ],
+    "canonical_name": "Prudential Insurance Company",
+    "llm_response": "Prudential Insurance Company",
+    "processing_cost": 6.435e-05
+  },
+  {
+    "cluster_id": 29,
+    "vendor_count": 2,
+    "vendor_names": [
+      "McMaster-Carr Supply Co.",
+      "MCMASTER-CARR SUPPLY CO."
+    ],
+    "canonical_name": "McMaster-Carr Supply Co.",
+    "llm_response": "McMaster-Carr Supply Co.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 30,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Sino Biological US, Inc.",
+      "SINO BIOLOGICAL US, INC.",
+      "Sino Biological Inc."
+    ],
+    "canonical_name": "Sino Biological Inc.",
+    "llm_response": "Sino Biological Inc.",
+    "processing_cost": 7.02e-05
+  },
+  {
+    "cluster_id": 31,
+    "vendor_count": 2,
+    "vendor_names": [
+      "CRA International Inc.",
+      "CRA INTERNATIONAL (UK) LIMITED"
+    ],
+    "canonical_name": "CRA International Inc.",
+    "llm_response": "CRA International Inc.",
+    "processing_cost": 6.24e-05
+  },
+  {
+    "cluster_id": 32,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Tosoh Bioscience LLC",
+      "TOSOH BIOSCIENCE LLC"
+    ],
+    "canonical_name": "Tosoh Bioscience LLC",
+    "llm_response": "Tosoh Bioscience LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 33,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Enestia Belgium NV",
+      "ENESTIA BELGIUM NV"
+    ],
+    "canonical_name": "Enestia Belgium NV",
+    "llm_response": "Enestia Belgium NV",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 34,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Haruki Koike",
+      "HARUKI KOIKE"
+    ],
+    "canonical_name": "Haruki Koike",
+    "llm_response": "Haruki Koike",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 35,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Proclinical Ltd.",
+      "ProClinical AG"
+    ],
+    "canonical_name": "Proclinical Ltd.",
+    "llm_response": "Proclinical Ltd.",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 36,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Edenred Espana S.A",
+      "EDENRED ESPANA S.A"
+    ],
+    "canonical_name": "Edenred Espa\u00f1a S.A.",
+    "llm_response": "Edenred Espa\u00f1a S.A.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 37,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Hopscotch Congres",
+      "HOPSCOTCH CONGRES"
+    ],
+    "canonical_name": "Hopscotch Congres",
+    "llm_response": "Hopscotch Congres",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 38,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Republic M UK Ltd",
+      "Republic M! B.V."
+    ],
+    "canonical_name": "Republic M Ltd.",
+    "llm_response": "Republic M Ltd.",
+    "processing_cost": 6.24e-05
+  },
+  {
+    "cluster_id": 39,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Mazars Japan KK",
+      "MAZARS JAPAN KK"
+    ],
+    "canonical_name": "Mazars Japan KK",
+    "llm_response": "Mazars Japan KK",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 40,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Portfolio Media Inc.",
+      "PORTFOLIO MEDIA INC."
+    ],
+    "canonical_name": "Portfolio Media Inc.",
+    "llm_response": "Portfolio Media Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 41,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Rud Pedersen Public Affairs Denmark",
+      "Rud Pedersen Public Affairs Company"
+    ],
+    "canonical_name": "Rud Pedersen Public Affairs",
+    "llm_response": "Rud Pedersen Public Affairs",
+    "processing_cost": 7.085e-05
+  },
+  {
+    "cluster_id": 42,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Aoyama &Partners",
+      "AOYAMA &PARTNERS"
+    ],
+    "canonical_name": "AOYAMA & PARTNERS",
+    "llm_response": "AOYAMA & PARTNERS",
+    "processing_cost": 5.655e-05
+  },
+  {
+    "cluster_id": 43,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Bahwan CyberTek Inc",
+      "BAHWAN CYBERTEK INC"
+    ],
+    "canonical_name": "Bahwan CyberTek Inc",
+    "llm_response": "Bahwan CyberTek Inc",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 44,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Alston & Bird LLP",
+      "Alston and Bird LLP"
+    ],
+    "canonical_name": "Alston & Bird LLP",
+    "llm_response": "Alston & Bird LLP",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 45,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Arnold & Porter Kaye Scholer LLP",
+      "Arnold and Porter Kaye Scholer LLP",
+      "ARNOLD & PORTER KAYE SCHOLER LLP"
+    ],
+    "canonical_name": "Arnold & Porter Kaye Scholer LLP",
+    "llm_response": "Arnold & Porter Kaye Scholer LLP",
+    "processing_cost": 9.165e-05
+  },
+  {
+    "cluster_id": 46,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Prime Education, LLC",
+      "PRIME EDUCATION, LLC"
+    ],
+    "canonical_name": "Prime Education, LLC",
+    "llm_response": "Prime Education, LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 47,
+    "vendor_count": 3,
+    "vendor_names": [
+      "ZS Associates Inc",
+      "ZS ASSOCIATES INC",
+      "ZS Associates International Inc."
+    ],
+    "canonical_name": "ZS Associates Inc",
+    "llm_response": "ZS Associates Inc",
+    "processing_cost": 6.825e-05
+  },
+  {
+    "cluster_id": 48,
+    "vendor_count": 6,
+    "vendor_names": [
+      "Mazars LLP",
+      "Mazars, SA",
+      "Mazars",
+      "Mazars GmbH",
+      "Mazars SA",
+      "MAZARS SA"
+    ],
+    "canonical_name": "Mazars",
+    "llm_response": "Mazars",
+    "processing_cost": 6.5e-05
+  },
+  {
+    "cluster_id": 49,
+    "vendor_count": 2,
+    "vendor_names": [
+      "EBMA Consulting SRL",
+      "EBMA CONSULTING SRL"
+    ],
+    "canonical_name": "EBMA Consulting SRL",
+    "llm_response": "EBMA Consulting SRL",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 50,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Universitaetsklinikum Muenster",
+      "Universitaetsklinikum Koeln"
+    ],
+    "canonical_name": "Universitaetsklinikum Muenster",
+    "llm_response": "Universitaetsklinikum Muenster",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 51,
+    "vendor_count": 6,
+    "vendor_names": [
+      "Sociedad Murciana de Cardiologia",
+      "Sociedad Asturiana de Cardiologia",
+      "Sociedade Portuguesa de Cardiologia",
+      "Sociedad Vasco Navarra de Cardiolog",
+      "SOCIETAT CATALANA DE CARDIOLOGIA",
+      "SOCIEDAD MURCIANA DE CARDIOLOGIA"
+    ],
+    "canonical_name": "Sociedad Murciana de Cardiologia",
+    "llm_response": "Sociedad Murciana de Cardiologia",
+    "processing_cost": 0.00010010000000000001
+  },
+  {
+    "cluster_id": 52,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Vodafone",
+      "Vodafone GmbH",
+      "VODAFONE"
+    ],
+    "canonical_name": "Vodafone",
+    "llm_response": "Vodafone",
+    "processing_cost": 5.135e-05
+  },
+  {
+    "cluster_id": 53,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Branding Science International Inc",
+      "Branding Science UK Limited"
+    ],
+    "canonical_name": "Branding Science International Inc",
+    "llm_response": "Branding Science International Inc",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 54,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Syneos Health Canada Inc",
+      "SYNEOS HEALTH CANADA INC",
+      "Syneos Health US, Inc"
+    ],
+    "canonical_name": "Syneos Health",
+    "llm_response": "Syneos Health",
+    "processing_cost": 6.955000000000001e-05
+  },
+  {
+    "cluster_id": 55,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Chafic Karam, M.D.",
+      "Chafic Karam"
+    ],
+    "canonical_name": "Chafic Karam",
+    "llm_response": "Chafic Karam",
+    "processing_cost": 5.5900000000000004e-05
+  },
+  {
+    "cluster_id": 56,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Brierly Lombard and Company, Inc.",
+      "BRIERLY LOMBARD AND COMPANY, INC."
+    ],
+    "canonical_name": "Brierly Lombard and Company, Inc.",
+    "llm_response": "Brierly Lombard and Company, Inc.",
+    "processing_cost": 7.345000000000001e-05
+  },
+  {
+    "cluster_id": 57,
+    "vendor_count": 3,
+    "vendor_names": [
+      "International Vending",
+      "INTERNATIONAL VENDING",
+      "International Vending Managment"
+    ],
+    "canonical_name": "International Vending",
+    "llm_response": "International Vending",
+    "processing_cost": 5.98e-05
+  },
+  {
+    "cluster_id": 58,
+    "vendor_count": 2,
+    "vendor_names": [
+      "API Search Group, LLC",
+      "API SEARCH GROUP, LLC"
+    ],
+    "canonical_name": "API Search Group, LLC",
+    "llm_response": "API Search Group, LLC",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 59,
+    "vendor_count": 4,
+    "vendor_names": [
+      "The 86th Annual Scientific Meeting",
+      "The 26th Annual Scientific Meeting",
+      "25th Annual Scientific Meeting",
+      "The 85th Annual Scientific Meeting"
+    ],
+    "canonical_name": "Annual Scientific Meeting",
+    "llm_response": "Annual Scientific Meeting",
+    "processing_cost": 8.58e-05
+  },
+  {
+    "cluster_id": 60,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Region Norrbotten",
+      "REGION NORRBOTTEN"
+    ],
+    "canonical_name": "Norrbotten",
+    "llm_response": "Norrbotten",
+    "processing_cost": 5.135e-05
+  },
+  {
+    "cluster_id": 61,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Precisionary Instruments LLC",
+      "World Precision Instruments LLC",
+      "PRECISIONARY INSTRUMENTS LLC"
+    ],
+    "canonical_name": "Precisionary Instruments LLC",
+    "llm_response": "Precisionary Instruments LLC",
+    "processing_cost": 6.825e-05
+  },
+  {
+    "cluster_id": 62,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Viscon Consulting Corporation",
+      "VISCON CONSULTING CORPORATION"
+    ],
+    "canonical_name": "Viscon Consulting Corporation",
+    "llm_response": "Viscon Consulting Corporation",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 63,
+    "vendor_count": 5,
+    "vendor_names": [
+      "PricewaterhouseCoopers Accountants",
+      "PricewaterhouseCoopers LLP",
+      "PricewaterhouseCoopers Business",
+      "PricewaterhouseCoopers Auditores, S",
+      "PRICEWATERHOUSECOOPERS LLP"
+    ],
+    "canonical_name": "PricewaterhouseCoopers",
+    "llm_response": "PricewaterhouseCoopers",
+    "processing_cost": 6.5e-05
+  },
+  {
+    "cluster_id": 64,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Metenova America, Inc.",
+      "METENOVA AMERICA, INC."
+    ],
+    "canonical_name": "METENOVA AMERICA, INC.",
+    "llm_response": "METENOVA AMERICA, INC.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 65,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Association des Nephrologues",
+      "ASSOCIATION REGIONALE DES NEPHROLOG"
+    ],
+    "canonical_name": "Association des Nephrologues",
+    "llm_response": "Association des Nephrologues",
+    "processing_cost": 6.24e-05
+  },
+  {
+    "cluster_id": 66,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Southern Spear Inc",
+      "SOUTHERN SPEAR INC",
+      "Southern Spear Inc."
+    ],
+    "canonical_name": "Southern Spear Inc.",
+    "llm_response": "Southern Spear Inc.",
+    "processing_cost": 6.63e-05
+  },
+  {
+    "cluster_id": 67,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Brown and Bigelow Corp",
+      "BROWN AND BIGELOW CORP",
+      "Brown & Bigelow Corp"
+    ],
+    "canonical_name": "Brown & Bigelow Corp",
+    "llm_response": "Brown & Bigelow Corp",
+    "processing_cost": 7.475e-05
+  },
+  {
+    "cluster_id": 68,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Nvolv Partners, Inc",
+      "NVOLV PARTNERS, INC"
+    ],
+    "canonical_name": "Nvolv Partners, Inc",
+    "llm_response": "Nvolv Partners, Inc",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 69,
+    "vendor_count": 2,
+    "vendor_names": [
+      "The 33rd Annual Meeting of the",
+      "32nd Annual Meeting of the"
+    ],
+    "canonical_name": "32nd Annual Meeting",
+    "llm_response": "32nd Annual Meeting",
+    "processing_cost": 7.02e-05
+  },
+  {
+    "cluster_id": 70,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Claritas Rx Inc.",
+      "CLARITAS RX INC."
+    ],
+    "canonical_name": "Claritas Rx Inc.",
+    "llm_response": "Claritas Rx Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 71,
+    "vendor_count": 2,
+    "vendor_names": [
+      "BANK OF AMERICA N A LONDON BRANCH",
+      "Bank of America N A London Branch"
+    ],
+    "canonical_name": "Bank of America N A London Branch",
+    "llm_response": "Bank of America N A London Branch",
+    "processing_cost": 8.645e-05
+  },
+  {
+    "cluster_id": 72,
+    "vendor_count": 3,
+    "vendor_names": [
+      "MCDERMOTT WILL & EMERY LLP",
+      "McDermottWill &Emery LLP",
+      "McDermott Will & Emery LLP"
+    ],
+    "canonical_name": "McDermott Will & Emery LLP",
+    "llm_response": "McDermott Will & Emery LLP",
+    "processing_cost": 7.930000000000002e-05
+  },
+  {
+    "cluster_id": 73,
+    "vendor_count": 2,
+    "vendor_names": [
+      "MILTENYI BIOTEC",
+      "Miltenyi Biotec"
+    ],
+    "canonical_name": "Miltenyi Biotec",
+    "llm_response": "Miltenyi Biotec",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 74,
+    "vendor_count": 2,
+    "vendor_names": [
+      "SKYVIEW PHARMA",
+      "Skyview Pharma"
+    ],
+    "canonical_name": "Skyview Pharma",
+    "llm_response": "Skyview Pharma",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 75,
+    "vendor_count": 2,
+    "vendor_names": [
+      "KIMOTO SHOUBIDO",
+      "Kimoto Shoubido"
+    ],
+    "canonical_name": "Kimoto Shoubido",
+    "llm_response": "Kimoto Shoubido",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 76,
+    "vendor_count": 2,
+    "vendor_names": [
+      "AUSGLEICHSKASSE ZUG",
+      "Ausgleichskasse Zug"
+    ],
+    "canonical_name": "Ausgleichskasse Zug",
+    "llm_response": "Ausgleichskasse Zug",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 77,
+    "vendor_count": 2,
+    "vendor_names": [
+      "PLASTIC DESIGN INC.",
+      "Plastic Design Inc."
+    ],
+    "canonical_name": "Plastic Design Inc.",
+    "llm_response": "Plastic Design Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 78,
+    "vendor_count": 2,
+    "vendor_names": [
+      "BOOST PROMOTIONS INC.",
+      "Boost Promotions Inc."
+    ],
+    "canonical_name": "Boost Promotions Inc.",
+    "llm_response": "Boost Promotions Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 79,
+    "vendor_count": 4,
+    "vendor_names": [
+      "BIOMED REALTY LP",
+      "BioMed Realty L.P.",
+      "BioMed Realty LP",
+      "BIOMED REALTY L.P."
+    ],
+    "canonical_name": "BioMed Realty LP",
+    "llm_response": "BioMed Realty LP",
+    "processing_cost": 7.215e-05
+  },
+  {
+    "cluster_id": 80,
+    "vendor_count": 2,
+    "vendor_names": [
+      "RICOH SWITZERLAND LTD.",
+      "Ricoh Switzerland Ltd."
+    ],
+    "canonical_name": "Ricoh Switzerland Ltd.",
+    "llm_response": "Ricoh Switzerland Ltd.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 81,
+    "vendor_count": 2,
+    "vendor_names": [
+      "MICHELLE ROSEN",
+      "Michelle Rosen"
+    ],
+    "canonical_name": "Michelle Rosen",
+    "llm_response": "Michelle Rosen",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 82,
+    "vendor_count": 3,
+    "vendor_names": [
+      "RXDATASCIENCE INC.",
+      "RxDataScience Inc",
+      "RXDATASCIENCE INC"
+    ],
+    "canonical_name": "RXDATASCIENCE INC.",
+    "llm_response": "RXDATASCIENCE INC.",
+    "processing_cost": 5.7850000000000003e-05
+  },
+  {
+    "cluster_id": 83,
+    "vendor_count": 3,
+    "vendor_names": [
+      "CATALENT PHARMA SOLUTIONS",
+      "Catalent Pharma Solutions LLC",
+      "CATALENT PHARMA SOLUTIONS LLC"
+    ],
+    "canonical_name": "CATALENT PHARMA SOLUTIONS",
+    "llm_response": "CATALENT PHARMA SOLUTIONS",
+    "processing_cost": 7.02e-05
+  },
+  {
+    "cluster_id": 84,
+    "vendor_count": 2,
+    "vendor_names": [
+      "ALD AUTOMOTIVE S.A.U",
+      "ALD Automotive S.A.U"
+    ],
+    "canonical_name": "ALD Automotive S.A.U",
+    "llm_response": "ALD Automotive S.A.U",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 85,
+    "vendor_count": 2,
+    "vendor_names": [
+      "FCX PERFORMANCE INC",
+      "FCX Performance Inc"
+    ],
+    "canonical_name": "FCX Performance Inc",
+    "llm_response": "FCX Performance Inc",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 86,
+    "vendor_count": 4,
+    "vendor_names": [
+      "RICOH USA INC.",
+      "Ricoh USA Inc",
+      "Ricoh UK Limited",
+      "RICOH USA INC"
+    ],
+    "canonical_name": "Ricoh USA Inc",
+    "llm_response": "Ricoh USA Inc",
+    "processing_cost": 7.215e-05
+  },
+  {
+    "cluster_id": 87,
+    "vendor_count": 2,
+    "vendor_names": [
+      "THE LOTUS GROUP LLC",
+      "The Lotus Group LLC"
+    ],
+    "canonical_name": "THE LOTUS GROUP LLC",
+    "llm_response": "THE LOTUS GROUP LLC",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 88,
+    "vendor_count": 2,
+    "vendor_names": [
+      "SUNBELT RENTALS, INC.",
+      "Sunbelt Rentals, Inc."
+    ],
+    "canonical_name": "SUNBELT RENTALS, INC.",
+    "llm_response": "SUNBELT RENTALS, INC.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 89,
+    "vendor_count": 2,
+    "vendor_names": [
+      "PRF. DR. FABIAN KNEBEL",
+      "Prf. Dr. Fabian Knebel"
+    ],
+    "canonical_name": "Prf. Dr. Fabian Knebel",
+    "llm_response": "Prf. Dr. Fabian Knebel",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 90,
+    "vendor_count": 2,
+    "vendor_names": [
+      "OGLETREE DEAKINS NASH SMOAK &STEWA",
+      "Ogletree Deakins Nash Smoak &Stewa"
+    ],
+    "canonical_name": "OGLETREE DEAKINS NASH SMOAK & STEWA",
+    "llm_response": "OGLETREE DEAKINS NASH SMOAK & STEWA",
+    "processing_cost": 7.605e-05
+  },
+  {
+    "cluster_id": 91,
+    "vendor_count": 3,
+    "vendor_names": [
+      "KINOVATE LIFE SCIENCES INC",
+      "Kinovate Life Sciences Inc",
+      "Kinovate Life Sciences Inc"
+    ],
+    "canonical_name": "KINOVATE LIFE SCIENCES INC",
+    "llm_response": "KINOVATE LIFE SCIENCES INC",
+    "processing_cost": 7.475e-05
+  },
+  {
+    "cluster_id": 92,
+    "vendor_count": 3,
+    "vendor_names": [
+      "BECKMAN COULTER INC.",
+      "Beckman Coulter",
+      "Beckman Coulter Inc."
+    ],
+    "canonical_name": "Beckman Coulter Inc.",
+    "llm_response": "Beckman Coulter Inc.",
+    "processing_cost": 6.435e-05
+  },
+  {
+    "cluster_id": 93,
+    "vendor_count": 2,
+    "vendor_names": [
+      "ALLEN INSTITUTE",
+      "Allen Institute"
+    ],
+    "canonical_name": "Allen Institute",
+    "llm_response": "Allen Institute",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 94,
+    "vendor_count": 3,
+    "vendor_names": [
+      "BECTON DICKINSON AND COMPANY",
+      "Becton Dickinson & Company",
+      "Becton Dickinson and Company"
+    ],
+    "canonical_name": "Becton Dickinson and Company",
+    "llm_response": "Becton Dickinson and Company",
+    "processing_cost": 7.475e-05
+  },
+  {
+    "cluster_id": 95,
+    "vendor_count": 2,
+    "vendor_names": [
+      "DIGITAL PARADIGMS INC.",
+      "Digital Paradigms Inc."
+    ],
+    "canonical_name": "Digital Paradigms Inc.",
+    "llm_response": "Digital Paradigms Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 96,
+    "vendor_count": 2,
+    "vendor_names": [
+      "ATLAS HIGH PURITY SOLUTIONS",
+      "Atlas High Purity Solutions LLC"
+    ],
+    "canonical_name": "ATLAS HIGH PURITY SOLUTIONS",
+    "llm_response": "ATLAS HIGH PURITY SOLUTIONS",
+    "processing_cost": 6.89e-05
+  },
+  {
+    "cluster_id": 97,
+    "vendor_count": 2,
+    "vendor_names": [
+      "RHENUS DATA OFFICE GMBH",
+      "Rhenus Data Office GmbH"
+    ],
+    "canonical_name": "RHENUS DATA OFFICE GMBH",
+    "llm_response": "RHENUS DATA OFFICE GMBH",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 98,
+    "vendor_count": 3,
+    "vendor_names": [
+      "CONVERGINT TECHNOLOGIES GMBH",
+      "CONVERGINT TECHNOLOGIES UK LIMITED",
+      "Convergint Technologies UK Limited"
+    ],
+    "canonical_name": "CONVERGINT TECHNOLOGIES",
+    "llm_response": "CONVERGINT TECHNOLOGIES",
+    "processing_cost": 6.76e-05
+  },
+  {
+    "cluster_id": 99,
+    "vendor_count": 2,
+    "vendor_names": [
+      "SOUTHERN GRAPHICS INC.",
+      "Southern Graphics Inc."
+    ],
+    "canonical_name": "SOUTHERN GRAPHICS INC.",
+    "llm_response": "SOUTHERN GRAPHICS INC.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 100,
+    "vendor_count": 5,
+    "vendor_names": [
+      "BAKER AND MCKENZIE LLP",
+      "Baker and McKenzie  CIS, Limited",
+      "Baker and McKenzie LLP",
+      "Baker & Mckenzie S.A.S.",
+      "Baker & McKenzie"
+    ],
+    "canonical_name": "Baker & McKenzie",
+    "llm_response": "Baker & McKenzie",
+    "processing_cost": 8.775e-05
+  },
+  {
+    "cluster_id": 101,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Springer Healthcare Ltd.",
+      "Springer Healthcare"
+    ],
+    "canonical_name": "Springer Healthcare Ltd.",
+    "llm_response": "Springer Healthcare Ltd.",
+    "processing_cost": 5.8500000000000006e-05
+  },
+  {
+    "cluster_id": 102,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Chieko Kukinaka",
+      "CHIEKO KUKINAKA"
+    ],
+    "canonical_name": "Chieko Kukinaka",
+    "llm_response": "Chieko Kukinaka",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 103,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Bank of America N A",
+      "BANK OF AMERICA N A"
+    ],
+    "canonical_name": "Bank of America N A",
+    "llm_response": "Bank of America N A",
+    "processing_cost": 7.345000000000001e-05
+  },
+  {
+    "cluster_id": 104,
+    "vendor_count": 4,
+    "vendor_names": [
+      "Fisher Clinical Services",
+      "Fisher Clinical Services UK Ltd",
+      "FISHER CLINICAL SERVICES UK LTD",
+      "FISHER CLINICAL SERVICES"
+    ],
+    "canonical_name": "Fisher Clinical Services",
+    "llm_response": "Fisher Clinical Services",
+    "processing_cost": 7.995e-05
+  },
+  {
+    "cluster_id": 105,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Publicis Health, LLC",
+      "PUBLICIS HEALTH, LLC"
+    ],
+    "canonical_name": "Publicis Health, LLC",
+    "llm_response": "Publicis Health, LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 106,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Telerx Marketing Inc.",
+      "Telerx Marketing Inc",
+      "TELERX MARKETING INC."
+    ],
+    "canonical_name": "Telerx Marketing Inc.",
+    "llm_response": "Telerx Marketing Inc.",
+    "processing_cost": 6.63e-05
+  },
+  {
+    "cluster_id": 107,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Hall Associates Inc.",
+      "HALL ASSOCIATES INC."
+    ],
+    "canonical_name": "Hall Associates Inc.",
+    "llm_response": "Hall Associates Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 108,
+    "vendor_count": 2,
+    "vendor_names": [
+      "ARE-MA Region No.28 LLC",
+      "ARE-MA REGION NO.28 LLC"
+    ],
+    "canonical_name": "ARE-MA Region No.28 LLC",
+    "llm_response": "ARE-MA Region No.28 LLC",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 109,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Cause Consulting",
+      "CAUSE CONSULTING"
+    ],
+    "canonical_name": "Cause Consulting",
+    "llm_response": "Cause Consulting",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 110,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Mettler-Toledo Rainin LLC",
+      "METTLER-TOLEDO RAININ LLC"
+    ],
+    "canonical_name": "Mettler-Toledo Rainin LLC",
+    "llm_response": "Mettler-Toledo Rainin LLC",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 111,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Siemens Industry Inc",
+      "SIEMENS INDUSTRY INC"
+    ],
+    "canonical_name": "Siemens Industry Inc",
+    "llm_response": "Siemens Industry Inc",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 112,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Doe and Ingalls Inc",
+      "DOE AND INGALLS INC"
+    ],
+    "canonical_name": "Doe and Ingalls Inc",
+    "llm_response": "Doe and Ingalls Inc",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 113,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Alpco Diagnostics",
+      "ALPCO DIAGNOSTICS"
+    ],
+    "canonical_name": "ALPCO DIAGNOSTICS",
+    "llm_response": "ALPCO DIAGNOSTICS",
+    "processing_cost": 5.395e-05
+  },
+  {
+    "cluster_id": 114,
+    "vendor_count": 2,
+    "vendor_names": [
+      "IDEX Health & Science LLC",
+      "Idex Health and Science LLC"
+    ],
+    "canonical_name": "IDEX Health & Science LLC",
+    "llm_response": "IDEX Health & Science LLC",
+    "processing_cost": 7.345000000000001e-05
+  },
+  {
+    "cluster_id": 115,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Neponset Controls Inc.",
+      "NEPONSET CONTROLS INC."
+    ],
+    "canonical_name": "Neponset Controls Inc.",
+    "llm_response": "Neponset Controls Inc.",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 116,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Avidity Science",
+      "Avidity Science LLC"
+    ],
+    "canonical_name": "Avidity Science",
+    "llm_response": "Avidity Science",
+    "processing_cost": 5.5900000000000004e-05
+  },
+  {
+    "cluster_id": 117,
+    "vendor_count": 2,
+    "vendor_names": [
+      "En World Japan",
+      "EN WORLD JAPAN"
+    ],
+    "canonical_name": "En World Japan",
+    "llm_response": "En World Japan",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 118,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Allegro IP Law",
+      "ALLEGRO IP LAW"
+    ],
+    "canonical_name": "Allegro IP Law",
+    "llm_response": "Allegro IP Law",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 119,
+    "vendor_count": 2,
+    "vendor_names": [
+      "The 39th Annual Meeting of Japanese",
+      "The 24th annual meeting of Japanese"
+    ],
+    "canonical_name": "Annual Meeting of Japanese",
+    "llm_response": "Annual Meeting of Japanese",
+    "processing_cost": 7.475e-05
+  },
+  {
+    "cluster_id": 120,
+    "vendor_count": 2,
+    "vendor_names": [
+      "M and M Bridge",
+      "M AND M BRIDGE"
+    ],
+    "canonical_name": "M AND M BRIDGE",
+    "llm_response": "M AND M BRIDGE",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 121,
+    "vendor_count": 2,
+    "vendor_names": [
+      "Allianz Global Corporate &",
+      "ALLIANZ GLOBAL CORPORATE &"
+    ],
+    "canonical_name": "ALLIANZ GLOBAL CORPORATE &",
+    "llm_response": "ALLIANZ GLOBAL CORPORATE &",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 122,
+    "vendor_count": 3,
+    "vendor_names": [
+      "Mazars Tax Corporation",
+      "Mazars Accounting, Legal, Tax",
+      "Mazars Tax and Legal"
+    ],
+    "canonical_name": "Mazars",
+    "llm_response": "Mazars",
+    "processing_cost": 6.5e-05
+  },
+  {
+    "cluster_id": 123,
+    "vendor_count": 2,
+    "vendor_names": [
+      "W2M Corporate SLU",
+      "W2M CORPORATE SLU"
+    ],
+    "canonical_name": "W2M CORPORATE SLU",
+    "llm_response": "W2M CORPORATE SLU",
+    "processing_cost": 6.0450000000000006e-05
+  },
+  {
+    "cluster_id": 124,
+    "vendor_count": 2,
+    "vendor_names": [
+      "63rd Annual Meeting of the",
+      "The 68th Annual Meeting"
+    ],
+    "canonical_name": "68th Annual Meeting",
+    "llm_response": "68th Annual Meeting",
+    "processing_cost": 6.63e-05
+  },
+  {
+    "cluster_id": 125,
+    "vendor_count": 2,
+    "vendor_names": [
+      "PARK, KIM & PARTNER",
+      "Park, Kim & Partner"
+    ],
+    "canonical_name": "PARK, KIM & PARTNER",
+    "llm_response": "PARK, KIM & PARTNER",
+    "processing_cost": 6.695e-05
+  },
+  {
+    "cluster_id": 126,
+    "vendor_count": 2,
+    "vendor_names": [
+      "EAGLE BIOSCIENCES, INC",
+      "Eagle Biosciences, Inc"
+    ],
+    "canonical_name": "Eagle Biosciences, Inc",
+    "llm_response": "Eagle Biosciences, Inc",
+    "processing_cost": 6.0450000000000006e-05
+  }
+]

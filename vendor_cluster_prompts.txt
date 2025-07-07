@@ -1,0 +1,1466 @@
+VENDOR CLUSTER PROMPTS FOR LLM PROCESSING
+==================================================
+
+CLUSTER 0 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+PPD Development
+PPD DEVELOPMENT
+PPD DEVELOPMENT LP
+PPD Development LP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 1 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Covance Labortories Inc.
+COVANCE LABORTORIES INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 2 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Ryska Posten AB
+RYSKA POSTEN AB
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 3 (6 vendors)
+------------------------------
+Vendor Cluster:
+
+ALD Automotive AB
+ALD Automotive UK
+ALD AUTOMOTIVE UK
+ALD AUTOMOTIVE
+ALD Automotive AG
+ALD Automotive
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 4 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Precision Effect, Inc.
+PRECISION EFFECT, INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 5 (6 vendors)
+------------------------------
+Vendor Cluster:
+
+FedEx
+FedEX Express
+Fedex
+Fedex Express FR
+FEDEX
+FEDEX EXPRESS
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 6 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Greater Than One Inc.
+GREATER THAN ONE INC.
+Greater than One
+GREATER THAN ONE
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 7 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Argot Partners LLC
+ARGOT PARTNERS LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 8 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Colt Technology Services GmbH
+Colt Technology Services
+Colt Technology Services B.V.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 9 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Labcorp Drug Development Inc
+LabCorp
+LABCORP DRUG DEVELOPMENT INC
+LABCORP EARLY DEVELOPMENT
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 10 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Ernst &Young LLP
+Ernst and Young LLP
+Ernst and Young AG
+ERNST &YOUNG LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 11 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Pilgrim Parking Inc
+PILGRIM PARKING INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 12 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Hongene Biotech International Co.
+Hongene Biotech International Co.
+HONGENE BIOTECH INTERNATIONAL CO.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 13 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Aon Consulting Inc. -Radford
+AON Consulting Limited
+AON CONSULTING INC. -RADFORD
+AON CONSULTING LIMITED
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 14 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Deloitte AG
+Deloitte LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 15 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Keystone Partners
+KEYSTONE PARTNERS
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 16 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Shulkin Solutions
+SHULKIN SOLUTIONS
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 17 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Kenneth R. Filosi
+KENNETH R. FILOSI
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 18 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Vinyl Development LLC
+VINYL DEVELOPMENT LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 19 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Eliassen Group, LLC
+ELIASSEN GROUP, LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 20 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Aztec Technolgoies Inc.
+AZTEC TECHNOLGOIES INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 21 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Global Life Sciences Solutions USA
+GLOBAL LIFE SCIENCES SOLUTIONS USA
+Global Life Sciences Solutions Sing
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 22 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+DK Pierce and Associates Inc.
+DK PIERCE AND ASSOCIATES INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 23 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Heart Failure Society of America
+British Society for Heart Failure
+BRITISH SOCIETY FOR HEART FAILURE
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 24 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Withers Bergman LLP
+WITHERS BERGMAN LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 25 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Ashfield Meetings and Events Limite
+ASHFIELD MEETINGS AND EVENTS LIMITE
+Ashfield Meetings & Events Inc
+ASHFIELD MEETINGS & EVENTS INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 26 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Pharmalex US LLC
+PHARMALEX US LLC
+PharmaLex GmbH
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 27 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Covington &Burling LLP
+Covington and Burling LLP
+COVINGTON &BURLING LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 28 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+The Prudential Insurance Company
+THE PRUDENTIAL INSURANCE COMPANY
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 29 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+McMaster-Carr Supply Co.
+MCMASTER-CARR SUPPLY CO.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 30 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Sino Biological US, Inc.
+SINO BIOLOGICAL US, INC.
+Sino Biological Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 31 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+CRA International Inc.
+CRA INTERNATIONAL (UK) LIMITED
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 32 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Tosoh Bioscience LLC
+TOSOH BIOSCIENCE LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 33 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Enestia Belgium NV
+ENESTIA BELGIUM NV
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 34 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Haruki Koike
+HARUKI KOIKE
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 35 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Proclinical Ltd.
+ProClinical AG
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 36 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Edenred Espana S.A
+EDENRED ESPANA S.A
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 37 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Hopscotch Congres
+HOPSCOTCH CONGRES
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 38 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Republic M UK Ltd
+Republic M! B.V.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 39 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Mazars Japan KK
+MAZARS JAPAN KK
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 40 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Portfolio Media Inc.
+PORTFOLIO MEDIA INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 41 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Rud Pedersen Public Affairs Denmark
+Rud Pedersen Public Affairs Company
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 42 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Aoyama &Partners
+AOYAMA &PARTNERS
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 43 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Bahwan CyberTek Inc
+BAHWAN CYBERTEK INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 44 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Alston & Bird LLP
+Alston and Bird LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 45 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Arnold & Porter Kaye Scholer LLP
+Arnold and Porter Kaye Scholer LLP
+ARNOLD & PORTER KAYE SCHOLER LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 46 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Prime Education, LLC
+PRIME EDUCATION, LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 47 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+ZS Associates Inc
+ZS ASSOCIATES INC
+ZS Associates International Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 48 (6 vendors)
+------------------------------
+Vendor Cluster:
+
+Mazars LLP
+Mazars, SA
+Mazars
+Mazars GmbH
+Mazars SA
+MAZARS SA
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 49 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+EBMA Consulting SRL
+EBMA CONSULTING SRL
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 50 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Universitaetsklinikum Muenster
+Universitaetsklinikum Koeln
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 51 (6 vendors)
+------------------------------
+Vendor Cluster:
+
+Sociedad Murciana de Cardiologia
+Sociedad Asturiana de Cardiologia
+Sociedade Portuguesa de Cardiologia
+Sociedad Vasco Navarra de Cardiolog
+SOCIETAT CATALANA DE CARDIOLOGIA
+SOCIEDAD MURCIANA DE CARDIOLOGIA
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 52 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Vodafone
+Vodafone GmbH
+VODAFONE
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 53 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Branding Science International Inc
+Branding Science UK Limited
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 54 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Syneos Health Canada Inc
+SYNEOS HEALTH CANADA INC
+Syneos Health US, Inc
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 55 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Chafic Karam, M.D.
+Chafic Karam
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 56 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Brierly Lombard and Company, Inc.
+BRIERLY LOMBARD AND COMPANY, INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 57 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+International Vending
+INTERNATIONAL VENDING
+International Vending Managment
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 58 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+API Search Group, LLC
+API SEARCH GROUP, LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 59 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+The 86th Annual Scientific Meeting
+The 26th Annual Scientific Meeting
+25th Annual Scientific Meeting
+The 85th Annual Scientific Meeting
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 60 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Region Norrbotten
+REGION NORRBOTTEN
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 61 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Precisionary Instruments LLC
+World Precision Instruments LLC
+PRECISIONARY INSTRUMENTS LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 62 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Viscon Consulting Corporation
+VISCON CONSULTING CORPORATION
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 63 (5 vendors)
+------------------------------
+Vendor Cluster:
+
+PricewaterhouseCoopers Accountants
+PricewaterhouseCoopers LLP
+PricewaterhouseCoopers Business
+PricewaterhouseCoopers Auditores, S
+PRICEWATERHOUSECOOPERS LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 64 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Metenova America, Inc.
+METENOVA AMERICA, INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 65 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Association des Nephrologues
+ASSOCIATION REGIONALE DES NEPHROLOG
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 66 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Southern Spear Inc
+SOUTHERN SPEAR INC
+Southern Spear Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 67 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Brown and Bigelow Corp
+BROWN AND BIGELOW CORP
+Brown & Bigelow Corp
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 68 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Nvolv Partners, Inc
+NVOLV PARTNERS, INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 69 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+The 33rd Annual Meeting of the
+32nd Annual Meeting of the
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 70 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Claritas Rx Inc.
+CLARITAS RX INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 71 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+BANK OF AMERICA N A LONDON BRANCH
+Bank of America N A London Branch
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 72 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+MCDERMOTT WILL & EMERY LLP
+McDermottWill &Emery LLP
+McDermott Will & Emery LLP
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 73 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+MILTENYI BIOTEC
+Miltenyi Biotec
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 74 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+SKYVIEW PHARMA
+Skyview Pharma
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 75 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+KIMOTO SHOUBIDO
+Kimoto Shoubido
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 76 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+AUSGLEICHSKASSE ZUG
+Ausgleichskasse Zug
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 77 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+PLASTIC DESIGN INC.
+Plastic Design Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 78 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+BOOST PROMOTIONS INC.
+Boost Promotions Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 79 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+BIOMED REALTY LP
+BioMed Realty L.P.
+BioMed Realty LP
+BIOMED REALTY L.P.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 80 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+RICOH SWITZERLAND LTD.
+Ricoh Switzerland Ltd.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 81 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+MICHELLE ROSEN
+Michelle Rosen
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 82 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+RXDATASCIENCE INC.
+RxDataScience Inc
+RXDATASCIENCE INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 83 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+CATALENT PHARMA SOLUTIONS
+Catalent Pharma Solutions LLC
+CATALENT PHARMA SOLUTIONS LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 84 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+ALD AUTOMOTIVE S.A.U
+ALD Automotive S.A.U
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 85 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+FCX PERFORMANCE INC
+FCX Performance Inc
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 86 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+RICOH USA INC.
+Ricoh USA Inc
+Ricoh UK Limited
+RICOH USA INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 87 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+THE LOTUS GROUP LLC
+The Lotus Group LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 88 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+SUNBELT RENTALS, INC.
+Sunbelt Rentals, Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 89 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+PRF. DR. FABIAN KNEBEL
+Prf. Dr. Fabian Knebel
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 90 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+OGLETREE DEAKINS NASH SMOAK &STEWA
+Ogletree Deakins Nash Smoak &Stewa
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 91 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+KINOVATE LIFE SCIENCES INC
+Kinovate Life Sciences Inc
+Kinovate Life Sciences Inc
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 92 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+BECKMAN COULTER INC.
+Beckman Coulter
+Beckman Coulter Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 93 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+ALLEN INSTITUTE
+Allen Institute
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 94 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+BECTON DICKINSON AND COMPANY
+Becton Dickinson & Company
+Becton Dickinson and Company
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 95 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+DIGITAL PARADIGMS INC.
+Digital Paradigms Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 96 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+ATLAS HIGH PURITY SOLUTIONS
+Atlas High Purity Solutions LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 97 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+RHENUS DATA OFFICE GMBH
+Rhenus Data Office GmbH
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 98 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+CONVERGINT TECHNOLOGIES GMBH
+CONVERGINT TECHNOLOGIES UK LIMITED
+Convergint Technologies UK Limited
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 99 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+SOUTHERN GRAPHICS INC.
+Southern Graphics Inc.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 100 (5 vendors)
+------------------------------
+Vendor Cluster:
+
+BAKER AND MCKENZIE LLP
+Baker and McKenzie  CIS, Limited
+Baker and McKenzie LLP
+Baker & Mckenzie S.A.S.
+Baker & McKenzie
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 101 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Springer Healthcare Ltd.
+Springer Healthcare
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 102 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Chieko Kukinaka
+CHIEKO KUKINAKA
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 103 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Bank of America N A
+BANK OF AMERICA N A
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 104 (4 vendors)
+------------------------------
+Vendor Cluster:
+
+Fisher Clinical Services
+Fisher Clinical Services UK Ltd
+FISHER CLINICAL SERVICES UK LTD
+FISHER CLINICAL SERVICES
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 105 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Publicis Health, LLC
+PUBLICIS HEALTH, LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 106 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Telerx Marketing Inc.
+Telerx Marketing Inc
+TELERX MARKETING INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 107 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Hall Associates Inc.
+HALL ASSOCIATES INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 108 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+ARE-MA Region No.28 LLC
+ARE-MA REGION NO.28 LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 109 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Cause Consulting
+CAUSE CONSULTING
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 110 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Mettler-Toledo Rainin LLC
+METTLER-TOLEDO RAININ LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 111 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Siemens Industry Inc
+SIEMENS INDUSTRY INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 112 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Doe and Ingalls Inc
+DOE AND INGALLS INC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 113 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Alpco Diagnostics
+ALPCO DIAGNOSTICS
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 114 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+IDEX Health & Science LLC
+Idex Health and Science LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 115 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Neponset Controls Inc.
+NEPONSET CONTROLS INC.
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 116 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Avidity Science
+Avidity Science LLC
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 117 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+En World Japan
+EN WORLD JAPAN
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 118 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Allegro IP Law
+ALLEGRO IP LAW
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 119 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+The 39th Annual Meeting of Japanese
+The 24th annual meeting of Japanese
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 120 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+M and M Bridge
+M AND M BRIDGE
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 121 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+Allianz Global Corporate &
+ALLIANZ GLOBAL CORPORATE &
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 122 (3 vendors)
+------------------------------
+Vendor Cluster:
+
+Mazars Tax Corporation
+Mazars Accounting, Legal, Tax
+Mazars Tax and Legal
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 123 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+W2M Corporate SLU
+W2M CORPORATE SLU
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 124 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+63rd Annual Meeting of the
+The 68th Annual Meeting
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 125 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+PARK, KIM & PARTNER
+Park, Kim & Partner
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
+CLUSTER 126 (2 vendors)
+------------------------------
+Vendor Cluster:
+
+EAGLE BIOSCIENCES, INC
+Eagle Biosciences, Inc
+
+What is the cleanest, most canonical name for reporting purposes?
+
+==================================================
+
